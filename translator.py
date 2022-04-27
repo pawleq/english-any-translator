@@ -1,6 +1,5 @@
 from numpy import choose
 from textblob import TextBlob
-# print("Norėdami baigti darbą su programa įveskite neigiamą skaičių \n")
 inputText = ""
 outputLang = ""
 def lineBreak():
